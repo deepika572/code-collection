@@ -3,6 +3,7 @@ import java.io.*;
 
 public class TemplateWithOutputWriter {
     // This is where you should write your code
+    // add your logic in solve method 
     static class Task {
         private void solve(int testNumber, InputReader in, OutputWriter out) {
 
